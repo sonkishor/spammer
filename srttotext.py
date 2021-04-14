@@ -12,3 +12,5 @@ for line in lines:
         text += ' ' + line.rstrip('\n')
         text = text.lstrip()
     output.write(text)
+
+#this is buggy
